@@ -25,13 +25,13 @@ const store = configureStore(history);
 
 // Firebase 환경 변수
 const firebaseConfig = {
-    apiKey: "AIzaSyAZY5lJYtQnbGUTd93s7uYUtWFcb2MrEr8",
-    authDomain: "abcd-d4a7b.firebaseapp.com",
-    databaseURL: "https://abcd-d4a7b.firebaseio.com",
-    projectId: "abcd-d4a7b",
-    storageBucket: "abcd-d4a7b.appspot.com",
-    messagingSenderId: "439976404381",
-    appId: "1:439976404381:web:7679b825f3e66ed1"
+    apiKey: "AIzaSyC4ZMBQJwvscqJOUPPe2SmIiCV-VByXuT4",
+    authDomain: "moim-11081.firebaseapp.com",
+    databaseURL: "https://moim-11081.firebaseio.com",
+    projectId: "moim-11081",
+    storageBucket: "moim-11081.appspot.com",
+    messagingSenderId: "375605734625",
+    appId: "1:375605734625:web:1e84609c7fe37a5d"
 };
 // Firebase 초기화
 firebase.initializeApp(firebaseConfig);
